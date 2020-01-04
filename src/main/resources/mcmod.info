@@ -1,0 +1,16 @@
+[
+{
+  "modid": "electrictech",
+  "name": "ElectricTech",
+  "description": "A immersive expansion, that brings a lot of stuff from Electric Universe.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mukasz"],
+  "credits": "Bois from ZSE for giving me this idea",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
